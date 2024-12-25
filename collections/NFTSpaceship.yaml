@@ -1,8 +1,9 @@
-  name: "NFT Spaceship"
-  description: "NFT Spaceship collection from MMPro BUMP team"
+  name: "Lizzard Kombat"
+  description: "Lizzard Kombat — это новый мем-коин, которая привлекает внимание инвесторов и энтузиастов благодаря своей уникальности и потенциалу роста. Она основана на интернет-меме «коин LIZZARD», который стал символом юмора, креативности и позитивного настроя в онлайн-сообществе.
+"
   image: "https://ipfs.filebase.io/ipfs/QmYkdzwxiViJ3Ceqx3iXX6VTqGKkuhVqEecgiiF5nvJe7j" 
-  address: "EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS"
+  address: "EQC_pEKAOYs7Imp4PQaN0S9FsWM6lFruKDLn89kKCV8BFovS"
   social: [ 
-    "https://t.me/marketmakingpro", 
-    "https://x.com/MarketmakingX" 
+    "https://t.me/lizzardkombat", 
+    "https://x.com/LizzardKombat" 
   ] 
